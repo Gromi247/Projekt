@@ -12,6 +12,7 @@ public class tatryTest {
 
     static WebDriver driver;
     private tatryOrder tatryOrder;
+	private doUsuniecia doUsunieciaZmienna;
 
     @Before
     public void init(){
@@ -28,6 +29,7 @@ public class tatryTest {
 
 
     }
+	
 
 
 
